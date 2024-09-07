@@ -27,7 +27,7 @@
 
    ```powershell
    powershell -ExecutionPolicy Bypass -File .\battery_notifier.ps1
-    ```
+   
 
 
 
